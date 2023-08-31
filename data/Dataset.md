@@ -46,8 +46,8 @@ https://cloud.tsinghua.edu.cn/f/5f32349965d844af9ff1/?dl=1
 
 Income：https://opendataphilly.org/datasets/city-employee-earnings/
 
-：https://guides.tricolib.brynmawr.edu/c.php?g=285078&p=1903288
+Summary：https://guides.tricolib.brynmawr.edu/c.php?g=285078&p=1903288
 
 Travel mode share: https://www.dvrpc.org/transportation/modeling/data/
 
-Boundary: https://cloud.tsinghua.edu.cn/f/fb82b4e327314ab5be2b/
+Boundary: https://opendataphilly.org/datasets/census-block-groups/
