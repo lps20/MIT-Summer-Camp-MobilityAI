@@ -18,6 +18,15 @@ https://medium.com/locally-optimal/yelp-open-dataset-a-new-version-is-available-
 
 https://www.yelp.com/dataset
 
+Pilly Yelp Data: 
+
+1. Business Info: https://cloud.tsinghua.edu.cn/f/918eddfc4e8c4ad6ad31/?dl=1
+
+2. Business Review:
+https://cloud.tsinghua.edu.cn/f/c8ffcd2398a74f009061/
+
+3. Business Embeddings: https://cloud.tsinghua.edu.cn/f/79b084d60e2841a6b357/?dl=1
+
 ## Taxi Trip Data (labeled)
 
 1. Taxi Trip 2022
@@ -35,6 +44,10 @@ https://cloud.tsinghua.edu.cn/f/5f32349965d844af9ff1/?dl=1
 
 ## Opendata Philly
 
-收入：https://opendataphilly.org/datasets/city-employee-earnings/
-网站总结：https://guides.tricolib.brynmawr.edu/c.php?g=285078&p=1903288
-travel mode share (下载那个survey data): https://www.dvrpc.org/transportation/modeling/data/
+Income：https://opendataphilly.org/datasets/city-employee-earnings/
+
+：https://guides.tricolib.brynmawr.edu/c.php?g=285078&p=1903288
+
+Travel mode share: https://www.dvrpc.org/transportation/modeling/data/
+
+Boundary: https://cloud.tsinghua.edu.cn/f/fb82b4e327314ab5be2b/
