@@ -1,48 +1,22 @@
 # MIT-Summer-Camp-MobilityAI
 
-## Process
+## About
 
-### WEEK1: June 19 - June 25
-This week I got a review of LLM development history and main technical models, learn about the direction of the development of the AGI.
+Our project focuses on applying large language models (LLMs) to mobility and transportation forecasting. We propose a new model called STGCN-L that incorporates LLMs into spatio-temporal graph convolutional networks for predicting future traffic conditions.
 
-[Review of the Development of LLM](https://docs.google.com/document/d/1RIPFvffK47sFV7EbUZlaEqWK5U7tJ6ZFzPvxkoiRH2M/edit?usp=sharing)
+## Related works
+1. TCN: [*An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling*](https://arxiv.org/abs/1803.01271)
+2. GLU and GTU: [*Language Modeling with Gated Convolutional Networks*](https://arxiv.org/abs/1612.08083)
+3. ChebNet: [*Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering*](https://arxiv.org/abs/1606.09375)
+4. GCN: [*Semi-Supervised Classification with Graph Convolutional Networks*](https://arxiv.org/abs/1609.02907)
+4. STGCN: [*Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting*](https://arxiv.org/abs/1709.04875)
 
-### WEEK2: June 26 - July 02
+## Related code
+1. TCN: https://github.com/locuslab/TCN
+2. ChebNet: https://github.com/mdeff/cnn_graph
+3. GCN: https://github.com/tkipf/pygcn
+3. STGCN-PyTorch: https://github.com/hazdzz/STGCN/tree/main
 
-Review of LLM application in specific domain ( finance and robotic …)
+## STGCN-L Model Structure
 
-[OpenAI Embedding] (https://platform.openai.com/docs/guides/embeddings/embeddings)
-
-[Rasa NUL](http://www.crownpku.com/2017/07/27/%E7%94%A8Rasa_NLU%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%AD%E6%96%87NLU%E7%B3%BB%E7%BB%9F.html)
-
-### WEEK3: July 03 - Jule 09
-TODO List:
-
-[Undergoing]  1.Collect some language data; 
-
-#### Chicago Safegraph POI
-
-##### DOCs
-
-https://docs.safegraph.com/docs/places
-
-https://docs.safegraph.com/docs/spend
-
-https://docs.safegraph.com/docs/monthly-patterns
-
-#### Yale Open Dataset
-
-https://medium.com/locally-optimal/yelp-open-dataset-a-new-version-is-available-6c3a83bddd
-
-#### Yalp Data
-
-https://www.yelp.com/dataset
-
-#### Airbnb Data
-
-http://insideairbnb.com/get-the-data/
-
-[TODO]	    2.Do the text embedding (not necessary LLM); 
-
-[TODO]	    3.Do some simple sociodemographic prediction
-
+![STGCN-L](Docs/STGCN-L.png)
